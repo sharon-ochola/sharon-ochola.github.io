@@ -54,9 +54,9 @@ phone = ""                          # e.g. "(510) 555-0123" — or leave empty
 # Paste any social media links here, one per line between the brackets.
 # The right icon appears automatically.
 socials = [
-  "https://www.instagram.com/example",
-  "https://www.linkedin.com/in/sharon-ochola",
-  "https://bsky.app/profile/example.bsky.social",
+  "https://www.instagram.com/__a.akinyi",
+  "https://www.linkedin.com/in/sharon-ochola/",
+  "",
 ]
 
 # ── Photos and files ────────────────────────────────────────
