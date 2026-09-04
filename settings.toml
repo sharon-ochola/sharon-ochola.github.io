@@ -118,16 +118,16 @@ outlet = ""
 # slideshow. Write captions after the | symbol (optional).
 
 [[work]]
-title = "Saturday at the farmers market"
-description = "Scenes from a morning at the downtown farmers market, where vendors set up before sunrise and regulars arrive with the same canvas bags every week."
-date = "February 2026"
+title = ""
+description = ""
+date = ""
 category = "Photojournalism"
 photos = [
-  "media/farmers-market/01-market-opening.jpg | Produce stands catch the first light as the market opens at 8 a.m.",
-  "media/farmers-market/02-vendor.jpg | Vendors greet the day's first customers — many by name.",
-  "media/farmers-market/03-vegetables.jpg | Winter vegetables, picked the afternoon before, fill the tables by dawn.",
-  "media/farmers-market/04-flowers.jpg | Flower buckets wait for the mid-morning rush.",
-  "media/farmers-market/05-fruit.jpg | By noon, the best of the citrus is already gone.",
+  "",
+  "",
+  "",
+  "",
+  "",
 ]
 
 # ── An audio story stored on your site ──────────────────────
@@ -136,11 +136,11 @@ photos = [
 # is optional. Clicking the work opens an audio player.
 
 [[work]]
-title = "One small step: the sound that stopped the world"
-description = "An audio postcard revisiting the most famous sentence ever spoken off-planet, and what it sounded like in living rooms in 1969."
-audio = "media/audio/one-small-step.mp3"
-image = "media/work/apollo.jpg"
-date = "December 2025"
+title = ""
+description = ""
+audio = ""
+image = ""
+date = ""
 category = "audio"
 
 # ── A video hosted on YouTube or Vimeo ──────────────────────
@@ -149,10 +149,10 @@ category = "audio"
 # here. Clicking the work plays it in a pop-up.
 
 [[work]]
-title = "Video explainer: why we're going back to the Moon"
-description = "A short explainer on NASA's Artemis program, produced for my multimedia reporting class."
-video = "https://www.youtube.com/watch?v=vl6jn-DdafM"
-date = "September 2025"
+title = ""
+description = ""
+video = ""
+date = ""
 category = "video"
 
 
