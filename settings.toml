@@ -15,10 +15,10 @@
 
 # ── Who you are ─────────────────────────────────────────────
 
-name = "Juan Pérez"                # ← Required. Everything else is optional.
+name = "Sharon Ochola"                # ← Required. Everything else is optional.
 
 # A short phrase describing you. Shows up big at the top of most templates.
-tagline = "Multimedia journalist telling the East Bay's stories"
+tagline = "Multimedia journalist reporting beyond the page"
 
 location = "Berkeley, California"
 
@@ -30,7 +30,7 @@ location = "Berkeley, California"
 # Fill them in if they apply to you. If not, leave them empty.
 
 job_title = "Multimedia Journalist"     # Your role, like "Reporter" or "Photojournalist"
-employer = "Richmond Confidential"      # Where you work, intern, or freelance most
+employer = "Emeryville Today"      # Where you work, intern, or freelance most
 
 # ── The look of your site ───────────────────────────────────
 #
@@ -44,18 +44,18 @@ employer = "Richmond Confidential"      # Where you work, intern, or freelance m
 #   "signal"     – huge bold headline, then a bright yellow band
 #   "harbor"     – deep teal with a portrait sidebar and serif type
 
-template = "newsprint"
+template = "ivory"
 
 # ── How people reach you ────────────────────────────────────
 
-email = "juan.perez@example.com"
+email = "sharon_ochola@berkeley.edu"
 phone = ""                          # e.g. "(510) 555-0123" — or leave empty
 
 # Paste any social media links here, one per line between the brackets.
 # The right icon appears automatically.
 socials = [
   "https://www.instagram.com/example",
-  "https://www.linkedin.com/in/example",
+  "https://www.linkedin.com/in/sharon-ochola",
   "https://bsky.app/profile/example.bsky.social",
 ]
 
@@ -64,7 +64,7 @@ socials = [
 # Upload files to the "media" folder on GitHub, then write the
 # file's name here.
 
-banner_photo = "media/banner.jpg"   # A portrait or banner photo of you
+banner_photo = "media/sharonochola.jpg"   # A portrait or banner photo of you
 resume = "media/resume.pdf"         # A PDF of your resume (adds a Resume button)
 favicon = ""                        # Tiny browser-tab icon. Empty = made for you
 
@@ -74,23 +74,14 @@ favicon = ""                        # Tiny browser-tab icon. Empty = made for yo
 # A blank line starts a new paragraph.
 
 bio = """
-I'm a journalism student at UC Berkeley with a focus on multimedia
-storytelling. I grew up in Fresno, where the kitchen radio was
-always tuned to the news. I've been hooked ever since.
-
-My reporting covers housing, transportation and food access in the East
-Bay. I write for Richmond Confidential and spent last summer as a
-reporting intern with the SF Chronicle, where I learned that the best
-stories usually start at a bus stop, a taquería or a city council
-meeting that runs past midnight.
-
-When I'm not reporting, you'll find me photographing high school
-soccer, digging through city budget PDFs, or hunting down the Bay
-Area's best al pastor.
+I'm a journalism student at UC Berkeley focusing on multimedia
+storytelling and currently reporting for Emeryville Today. I bring local 
+issues to life through stories found at late-night council meetings,
+neigborhood bus-stops, and everywhere in between.
 """
 
 # Optional extra line at the bottom of every page.
-footer = ""
+footer = "© 2026 Sharon Ochola"
 
 
 # ============================================================
@@ -111,40 +102,15 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
-title = "City Council approves protected bike lanes for Telegraph Avenue"
-description = "After a decade of debate and three hours of public comment, Berkeley's City Council voted 7–2 to build protected bike lanes along one of the city's busiest corridors."
-url = "https://example.com/your-story-link-goes-here"
-image = "media/work/bike-lanes.jpg"
-date = "March 2026"
-category = "Journalism"
-outlet = "Berkeleyside"
+title = ""
+description = ""
+url = ""
+image = ""
+date = ""
+category = ""
+outlet = ""
 
-[[work]]
-title = "The wells are running dry: a Central Valley town confronts its future"
-description = "In Teviston, families have watched their taps sputter for years. Now a state grant promises relief — but the water table keeps falling faster than the money arrives."
-url = "https://example.com/your-story-link-goes-here"
-image = "media/work/drought.jpg"
-date = "January 2026"
-category = "Journalism"
-outlet = "The San Francisco Chronicle"
 
-[[work]]
-title = "As grocery prices climb, more Cal students turn to the campus food pantry"
-description = "Visits to the UC Berkeley Food Pantry have doubled in two years. Students, staff and volunteers describe the quiet logistics of keeping shelves stocked."
-url = "https://example.com/your-story-link-goes-here"
-image = "media/work/food-bank.jpg"
-date = "November 2025"
-category = "Journalism"
-outlet = "The Daily Californian"
-
-# This one has no image on purpose — the site still handles it gracefully.
-[[work]]
-title = "Opinion: Student journalism deserves a seat at the press table"
-description = "Student reporters cover city hall when no one else shows up. It's time public agencies treated them like the working press they are."
-url = "https://example.com/your-story-link-goes-here"
-date = "October 2025"
-category = "Journalism"
-outlet = "Richmond Confidential"
 
 # ── A photo essay stored right here on your site ────────────
 #
@@ -175,7 +141,7 @@ description = "An audio postcard revisiting the most famous sentence ever spoken
 audio = "media/audio/one-small-step.mp3"
 image = "media/work/apollo.jpg"
 date = "December 2025"
-category = "Multimedia"
+category = "audio"
 
 # ── A video hosted on YouTube or Vimeo ──────────────────────
 #
@@ -187,7 +153,7 @@ title = "Video explainer: why we're going back to the Moon"
 description = "A short explainer on NASA's Artemis program, produced for my multimedia reporting class."
 video = "https://www.youtube.com/watch?v=vl6jn-DdafM"
 date = "September 2025"
-category = "Multimedia"
+category = "video"
 
 
 # ============================================================
