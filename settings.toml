@@ -81,7 +81,7 @@ neigborhood bus-stops, and everywhere in between.
 """
 
 # Optional extra line at the bottom of every page.
-footer = "© 2026 Sharon Ochola"
+# footer = "© 2026 Sharon Ochola"
 
 
 # ============================================================
